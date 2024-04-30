@@ -37,11 +37,21 @@ Este proyecto es un Conversor de Moneda en el que el usuario puede elegir entre 
 
 <p>En caso de que el usuario ingrese una opcion no válida, el programa indicará que la opción ingresada no es válida y pedirá al usuario que ingrese otra opción desplegando el menú nuevamente. Esto aplica tanto para la elección del menú como para la cantidad a convertir.</p>
 
-![salida](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/7745ae40-d2bd-46d7-acd1-c42b7d23c563)
+![salida](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/5f461beb-bb8a-4026-be03-84659cbf35cd)
 
-<p>Cuando el usuario ingrese la opción 7 para salir del programa, este mostrara un mensaje de salida y cerrará el programa.</p>
+<p>Cuando el usuario ingrese la opción 7 para salir del programa, este mostrara un mensaje de salida,mostrará que se ha creado un archivo Json y mostrará una lista de las conversiones realizadas, y finalmente, cerrará el programa.</p>
 
-![2024-04-25 17-37-42](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/59024bcc-60da-4745-89a6-30eab5a904a6)
+<p>Este es una parte del código realizado</p>
+
+![main](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/7d98e3ce-1c9e-49fc-af81-54fa5cc4816a)
+
+![main2](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/6a8f3055-b0d9-4a8e-8537-1350456a3a3a)
+
+![main3](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/6c0f073f-9071-4e68-a069-a1e419b3dfbd)
+
+
+https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/55ea0a52-d384-48e1-acde-0fd69fa35560
+
 
 <h1 font-weight="bold">Herramientas utilizadas</h1>
 
@@ -55,12 +65,9 @@ EXCHANGE RATE API
 
 <h1 font-weight="bold">Desarrollador del proyecto</h1>
 
-![devjoanna](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/45297921-2105-4737-8066-b135a0b980e4)
-
 Joanna L. Fernandez
 
-
-
+![joannafd](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/2d1de9ef-b76b-44a1-ac8c-2f60107de2f7)
 
 
 
