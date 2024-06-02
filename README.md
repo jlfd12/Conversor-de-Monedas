@@ -69,6 +69,7 @@ Joanna L. Fernandez
 
 ![joannafd](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/2d1de9ef-b76b-44a1-ac8c-2f60107de2f7)
 
+![Badge-Conversor](https://github.com/jlfd12/Conversor-de-Monedas/assets/67215733/4be29db9-df1d-40ec-9812-cb5851c0aae7)
 
 
 
